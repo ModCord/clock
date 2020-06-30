@@ -1,0 +1,25 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A clock that cycles through routines at certain intervals and fires events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModCord/clock.git"
+  },
+  "keywords": [
+    "clock",
+    "time",
+    "schedule",
+    "event"
+  ],
+  "author": "MrAugu#7917",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModCord/clock/issues"
+  },
+  "homepage": "https://github.com/ModCord/clock#readme"
+}

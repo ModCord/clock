@@ -2,7 +2,7 @@
   "name": "routine-clock",
   "version": "1.0.0",
   "description": "A clock that cycles through routines at certain intervals and fires events with the data originally submited.",
-  "main": "/lib/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json",
     "format": "prettier --write \"src/**/*.ts\"",

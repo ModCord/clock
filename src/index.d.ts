@@ -1,5 +1,5 @@
-import Clock, { ClockInterface, ClockOptions, Routine } from "./lib/Clock";
+import Clock from "./lib/Clock";
 
-declare module "@modcord/clock" {
+declare module "clock" {
   export default Clock;
 }

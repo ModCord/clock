@@ -1,8 +1,8 @@
 {
-  "name": "clock",
+  "name": "@modcord/clock",
   "version": "1.0.0",
   "description": "A clock that cycles through routines at certain intervals and fires events.",
-  "main": "index.js",
+  "main": "/dist/lib/Clock.js",
   "scripts": {
     "test": "node test"
   },
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ModCord/clock/issues"
   },
-  "homepage": "https://github.com/ModCord/clock#readme"
+  "homepage": "https://github.com/ModCord/clock#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
 }
